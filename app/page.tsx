@@ -108,7 +108,6 @@ export default function Home() {
         <div className="hero-glow glow-blue"></div>
         <div className="hero-glow glow-peach"></div>
         <div className="hero-copy">
-          <div className="eyebrow"><span className="pulse-dot"></span> Trusted medical operations partner</div>
           <h1>Medical Transcription &amp; Billing You Can <em>Actually Rely On</em></h1>
           <p className="hero-lead">Since 2005, Medlines has helped physicians and administrators cut costs, eliminate paperwork backlogs, and get paid faster — with HIPAA-certified transcription and billing handled by a dedicated U.S.-based team.</p>
           <div className="hero-buttons">
