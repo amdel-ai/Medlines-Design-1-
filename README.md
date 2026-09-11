@@ -1,6 +1,6 @@
 # Medlines — Design Draft 1
 
-Responsive medical transcription and billing landing page built with Next.js.
+Responsive, human-verified medical transcription website built with Next.js.
 
 ## Local development
 
